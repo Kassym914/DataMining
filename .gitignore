@@ -1,0 +1,13 @@
+.idea
+venv/
+.idea/
+__pycache__/
+*.log
+env/
+**/__pycache__
+/venv
+/env
+bin/
+logs/
+yelp_dataset_challenge_academic_dataset/
+yelp_dataset.tar.gz
